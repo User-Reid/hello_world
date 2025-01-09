@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello World! I am a Rustaceon!");
+    println!("Hello World! 🦀 I am a Rustaceon!");
 }
